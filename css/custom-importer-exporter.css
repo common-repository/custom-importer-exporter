@@ -1,0 +1,38 @@
+div.updated {
+	margin-left: 0px;
+}
+div.error {
+	margin-left: 0px;
+}
+
+div.box_wrap {
+	width: 100%;
+}
+
+div.box {
+	float: left;
+	clear: left;
+	background-color: white;
+	border: 1px solid #ccc;
+	width: calc(50% - 16px);
+	margin-right: 16px;
+	margin-top: 16px;
+}
+
+div.box:nth-child(odd) {
+  margin-left: -8px;
+}
+
+div.box:nth-child(even) {
+  float: right;
+  clear: right;
+  margin-right: 16px;
+}
+
+div.box .contents {
+	padding: 5px 20px 20px 20px;
+}
+
+div.button_wrap {
+	margin-top: 10px;
+}

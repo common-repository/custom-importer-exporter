@@ -1,0 +1,113 @@
+# Copyright (C) 2018 Custom Importer & Exporter
+# This file is distributed under the same license as the Custom Importer & Exporter package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Importer & Exporter 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/custom-importer-"
+"exporter\n"
+"POT-Creation-Date: 2018-12-11 03:30:06+00:00\n"
+"PO-Revision-Date: 2018-12-11 12:30+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: inc/class-custom-importer-exporter.php:12
+msgid "Term"
+msgstr "ターム"
+
+#: inc/class-custom-importer-exporter.php:13
+msgid "Post"
+msgstr "投稿"
+
+#: inc/post-type.php:20 inc/post-type.php:22 inc/term.php:39 inc/term.php:42
+msgid "Hide the notification"
+msgstr "通知を表示にする"
+
+#: inc/post-type.php:22 inc/term.php:42
+msgid " items imported"
+msgstr " 件をインポートしました"
+
+#: inc/post-type.php:28
+msgid "Post Export"
+msgstr "投稿情報　エクスポート"
+
+#: inc/post-type.php:29
+msgid "Export post information for each post type"
+msgstr "投稿タイプ毎の投稿情報をエクスポートします"
+
+#: inc/post-type.php:45 inc/term.php:72
+msgid "Export"
+msgstr "エクスポート"
+
+#: inc/post-type.php:53
+msgid "Post Import"
+msgstr "投稿情報　エクスポート"
+
+#: inc/post-type.php:54
+msgid "Import posting information"
+msgstr "投稿情報をインポートします"
+
+#: inc/post-type.php:59 inc/term.php:86
+msgid "Import"
+msgstr "インポート"
+
+#: inc/term.php:12
+msgid "Taxonomy %s is not exists"
+msgstr "タクソノミー %s は存在しません"
+
+#: inc/term.php:48
+msgid "Term Export"
+msgstr "ターム　エクスポート"
+
+#: inc/term.php:49
+msgid "Export term information"
+msgstr "ターム情報をエクスポートします"
+
+#: inc/term.php:60
+msgid "Category"
+msgstr "カテゴリー"
+
+#: inc/term.php:61
+msgid "Tag"
+msgstr "タグ"
+
+#: inc/term.php:80
+msgid "Term Import"
+msgstr "ターム　インポート"
+
+#: inc/term.php:81
+msgid "Import the term information"
+msgstr "ターム情報をインポートします"
+
+#. Plugin Name of the plugin/theme
+msgid "Custom Importer & Exporter"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Import & Export Term, Posts"
+msgstr "ターム情報、投稿情報のインポート&エクスポートを行います"
+
+#. Author of the plugin/theme
+msgid "Protech.Inc"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.pro-tech.co.jp/"
+msgstr ""
+
+#~ msgid "Import the term information of custom taxonomies"
+#~ msgstr "カスタムタクソノミーのターム情報をインポートします"
+
+#~ msgid ""
+#~ "Import / export custom taxonomy, custom posting type related information"
+#~ msgstr ""
+#~ "カスタムタクソノミー、カスタム投稿タイプ関連情報のインポート、エクスポー"
+#~ "トを行う"
+
+#~ msgid "Export term information of custom taxonomies"
+#~ msgstr "カスタムタクソノミーのターム情報をエクスポートします"
